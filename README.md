@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on **C++ projects, web applications, and Android apps.**  
 - 📫 How to reach me: www.linkedin.com/in/masroor-ahmad-zafar-584b21325  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love biking and I'm planning a long road trip on my Suzuki GS 150!**  
 
 <!---
 MASROOR-TECH/MASROOR-TECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
